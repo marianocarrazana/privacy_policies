@@ -3,7 +3,7 @@ email: marianocarrazana@gmail.com
 description: >-
   Privacy Policies
 domain: marianocarrazana.github.io
-url: "https://marianocarrazana.github.io"
+url: https://marianocarrazana.github.io
 baseurl: /privacy_policies/
 github_username: marianocarrazana
 theme: jekyll-theme-architect
